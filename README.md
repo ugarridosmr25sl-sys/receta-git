@@ -1,6 +1,6 @@
-título: Esto es el readme
+# Esto es el readme
 
-descripción: este es el readme que proporciona info muy importante
+### descripción: este es el readme que proporciona info muy importante
 
 una lista:
 1. uno
